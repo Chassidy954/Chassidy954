@@ -6,7 +6,9 @@
       Back End: NestJS
       Databases: PostgreSQL
       Languages: Python, TypeScript, Java
-- What I'm currently working on: GUI group project in Java
+- What I'm currently working on:
+-       GUI group project in Java
+-       Refining python webscraper
 - Get in touch:
       LinkedIn: https://www.linkedin.com/in/chassidywright/
       Email: chassidynwright@gmail.com
