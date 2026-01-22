@@ -1,12 +1,12 @@
 - 👋 Hello, I'm Chassidy.
-- I'm a developer who recently wrapped up an incredible internship at Metamorphix, where I learned what it means to be part of a dynamic development team.
+- I'm a developer who's currently interning with Metamorphix, where I'm learning what it means to be part of a dynamic development team.
 -  I have a strong interest in full-stack development and am eager to apply my skills to new challenges.
 -  Key technologies:
       Front End: Next.js
       Back End: NestJS
       Databases: PostgreSQL
       Languages: Python, TypeScript, Java
-- What I'm currently working on: GUI group project in Java, Refining Python webscraper
+- What I'm currently working on: Student wellbeing survey tool for Metamoprhix
 - Get in touch:
       LinkedIn: https://www.linkedin.com/in/chassidywright/
       Email: chassidynwright@gmail.com
